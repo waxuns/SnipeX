@@ -1,5 +1,7 @@
 # SnipeX: Atmos 🌐
-discord.gg/musul
+discord.gg/musul    ,    https://discord.gg/6H6fHG4Mzf
+
+
 SnipeX, YouTube, Instagram ve Facebook gibi sosyal medya platformlarını izlemek ve belirli anahtar kelimelerle eşleşen içerikleri tespit etmek amacıyla geliştirilmiş bir eğitim aracıdır.
 
 > ❗ Bu proje yalnızca **eğitim ve güvenlik araştırmaları** amacıyla tasarlanmıştır. Herhangi bir kötü niyetli kullanım **sorumluluğunuzdadır**.
